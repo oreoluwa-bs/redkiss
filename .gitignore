@@ -21,3 +21,7 @@
 go.work
 
 notes/
+# env files (restored by security fix)
+.env
+.env.*
+!.env.example
